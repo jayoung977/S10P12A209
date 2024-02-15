@@ -5,8 +5,8 @@
 맛동산과 함께 맛있는 추억을 남겨보세요!
 
 ## 주요 링크
-[메인 페이지](http://i10a209.p.ssafy.io/) </br>
-[소개 영상](https://www.youtube.com/watch?v=0PtYbQHdgZc&pp=ygUM66eb64-Z7IKwIENG) </br>
+- [메인 페이지](http://i10a209.p.ssafy.io/)
+- [소개 영상](https://www.youtube.com/watch?v=0PtYbQHdgZc&pp=ygUM66eb64-Z7IKwIENG)
 
 
 # 주요 기능
